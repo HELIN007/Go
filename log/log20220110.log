@@ -1,0 +1,74 @@
+{"level":"INFO","time":"2022-01-10 21:53:15","msg":"添加用户信息：OK"}
+{"level":"INFO","time":"2022-01-10 21:53:15","msg":"/api/v1/user/add","hostname":"LIN","status":200,"clientIP":"::1","method":"POST","agent":"PostmanRuntime/7.28.4","url":"/api/v1/user/add","cost":"120 ms"}
+{"level":"INFO","time":"2022-01-10 21:55:38","msg":"新增用户lin4:wKfPOp2unp6HHQ==，状态是OK"}
+{"level":"INFO","time":"2022-01-10 21:55:38","msg":"/api/v1/user/add","hostname":"LIN","status":200,"clientIP":"::1","method":"POST","agent":"PostmanRuntime/7.28.4","url":"/api/v1/user/add","cost":"107 ms"}
+{"level":"INFO","time":"2022-01-10 21:58:00","msg":"新增用户lin4:123456，状态是用户名已存在"}
+{"level":"INFO","time":"2022-01-10 21:58:00","msg":"/api/v1/user/add","hostname":"LIN","status":200,"clientIP":"::1","method":"POST","agent":"PostmanRuntime/7.28.4","url":"/api/v1/user/add","cost":"17 ms"}
+{"level":"INFO","time":"2022-01-10 21:59:32","msg":"/api/v1/user/6","hostname":"LIN","status":200,"clientIP":"::1","method":"DELETE","agent":"PostmanRuntime/7.28.4","url":"/api/v1/user/6","cost":"0 ms"}
+{"level":"INFO","time":"2022-01-10 22:00:21","msg":"/api/v1/user/6","hostname":"LIN","status":200,"clientIP":"::1","method":"DELETE","agent":"PostmanRuntime/7.28.4","cost":"0 ms"}
+{"level":"INFO","time":"2022-01-10 22:02:51","msg":"/api/v1/user/6","hostname":"LIN","status":200,"clientIP":"::1","method":"DELETE","agent":"PostmanRuntime/7.28.4","cost":"0 ms"}
+{"level":"INFO","time":"2022-01-10 22:03:37","msg":"/api/v1/user/6","hostname":"LIN","status":200,"clientIP":"::1","method":"DELETE","agent":"PostmanRuntime/7.28.4","cost":"0 ms"}
+{"level":"INFO","time":"2022-01-10 22:08:08","msg":"/api/v1/user/6","hostname":"LIN","status":200,"clientIP":"::1","method":"DELETE","agent":"PostmanRuntime/7.28.4","cost":"0 ms"}
+{"level":"INFO","time":"2022-01-10 22:10:37","msg":"解析token，状态是token is expired by 45h47m23s"}
+{"level":"INFO","time":"2022-01-10 22:10:37","msg":"/api/v1/user/6","hostname":"LIN","status":200,"clientIP":"::1","method":"DELETE","agent":"PostmanRuntime/7.28.4","cost":"1 ms"}
+{"level":"INFO","time":"2022-01-10 22:12:54","msg":"正在处理token"}
+{"level":"INFO","time":"2022-01-10 22:12:54","msg":"解析token，状态是token is expired by 45h49m40s"}
+{"level":"INFO","time":"2022-01-10 22:12:54","msg":"/api/v1/user/6","hostname":"LIN","status":200,"clientIP":"::1","method":"DELETE","agent":"PostmanRuntime/7.28.4","cost":"5 ms"}
+{"level":"INFO","time":"2022-01-10 22:15:46","msg":"正在处理token"}
+{"level":"INFO","time":"2022-01-10 22:15:46","msg":"解析token，状态是token is expired by 45h52m32s"}
+{"level":"INFO","time":"2022-01-10 22:15:46","msg":"/api/v1/user/6","hostname":"LIN","status":200,"clientIP":"::1","method":"DELETE","agent":"PostmanRuntime/7.28.4","cost":"1 ms"}
+{"level":"INFO","time":"2022-01-10 22:20:43","msg":"正在处理token"}
+{"level":"INFO","time":"2022-01-10 22:20:43","msg":"解析token，状态是token is expired by 45h57m29s"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":36,"HostName":"LIN","IP":"::1","Method":"DELETE","Path":"/api/v1/user/6","SpendTime":"2 ms","level":"info","msg":"","status":200,"time":"2022-01-10 22:20:43"}
+{"level":"INFO","time":"2022-01-10 22:21:42","msg":"新增用户lin4:123456，状态是用户名已存在"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":192,"HostName":"LIN","IP":"::1","Method":"POST","Path":"/api/v1/user/add","SpendTime":"12 ms","level":"info","msg":"","status":200,"time":"2022-01-10 22:21:42"}
+{"level":"INFO","time":"2022-01-10 23:01:56","msg":"新增用户ln4:123456，状态是OK"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":202,"HostName":"LIN","IP":"::1","Method":"POST","Path":"/api/v1/user/add","SpendTime":"164 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:01:56"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":63,"HostName":"LIN","IP":"::1","Method":"POST","Path":"/api/v1/user/add","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:11:01"}
+{"level":"INFO","time":"2022-01-10 23:12:10","msg":"验证信息错误：用户名长度必须至少为4个字符"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":63,"HostName":"LIN","IP":"::1","Method":"POST","Path":"/api/v1/user/add","SpendTime":"6 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:12:10"}
+{"level":"INFO","time":"2022-01-10 23:12:23","msg":"验证信息错误：密码长度必须至少为6个字符"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":60,"HostName":"LIN","IP":"::1","Method":"POST","Path":"/api/v1/user/add","SpendTime":"2 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:12:23"}
+{"level":"INFO","time":"2022-01-10 23:12:33","msg":"验证信息错误：角色码为必填字段"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":47,"HostName":"LIN","IP":"::1","Method":"POST","Path":"/api/v1/user/add","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:12:33"}
+{"level":"INFO","time":"2022-01-10 23:12:46","msg":"验证信息错误：角色码必须大于或等于2"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":54,"HostName":"LIN","IP":"::1","Method":"POST","Path":"/api/v1/user/add","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:12:46"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":47,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/users?pagesize=\u0026pagenum=","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:41:10"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":1073,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/users?pagesize=\u0026pagenum=","SpendTime":"2 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:43:59"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":209,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/article/info/3","SpendTime":"4 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:44:59"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":49,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/article?pagesize=\u0026pagenum=","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:45:11"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":2414,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/article?pagesize=\u0026pagenum=","SpendTime":"7 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:46:14"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":934,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/article/catelist/1","SpendTime":"2 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:47:37"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":934,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/article/catelist/1","SpendTime":"7 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:48:42"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":1524,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/article/catelist/2","SpendTime":"1 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:48:51"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":0,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/article/catelist/","SpendTime":"0 ms","level":"warning","msg":"","status":404,"time":"2022-01-10 23:48:57"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":47,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=2","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:49:26"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":45,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=2","SpendTime":"9 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:49:49"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":94,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=\u0026pagenum=","SpendTime":"16 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:50:49"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":94,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=\u0026pagenum=","SpendTime":"10 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:51:15"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":45,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=2","SpendTime":"1 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:51:23"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":94,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=1","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:51:28"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":69,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=1\u0026pagenum=2","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:51:38"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":69,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=1\u0026pagenum=2","SpendTime":"1 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:52:33"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":45,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=2","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:53:02"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":94,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=1","SpendTime":"1 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:53:07"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":69,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=1\u0026pagenum=1","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:53:15"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":69,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=1\u0026pagenum=1","SpendTime":"1 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:54:07"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":94,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=\u0026pagenum=","SpendTime":"9 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:54:26"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":45,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=2","SpendTime":"6 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:54:33"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":45,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=2","SpendTime":"1 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:54:50"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":45,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=2","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:54:51"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":47,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=2","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:55:14"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":47,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=1","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:55:19"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":47,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=1","SpendTime":"0 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:55:28"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":94,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=1","SpendTime":"4 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:55:42"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":94,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=1","SpendTime":"5 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:55:55"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":45,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=2\u0026pagenum=2","SpendTime":"3 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:56:00"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":69,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=1\u0026pagenum=2","SpendTime":"1 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:56:06"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":556,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/users?pagesize=3\u0026pagenum=2","SpendTime":"1 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:56:34"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":561,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/users?pagesize=3\u0026pagenum=1","SpendTime":"1 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:56:45"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":69,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=1\u0026pagenum=2","SpendTime":"4 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:56:56"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":69,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=1\u0026pagenum=2","SpendTime":"2 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:57:16"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":69,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=1\u0026pagenum=1","SpendTime":"1 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:57:28"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":69,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=1\u0026pagenum=2","SpendTime":"2 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:57:34"}
+{"Agent":"PostmanRuntime/7.28.4","DataSize":69,"HostName":"LIN","IP":"::1","Method":"GET","Path":"/api/v1/category?pagesize=1\u0026pagenum=2","SpendTime":"2 ms","level":"info","msg":"","status":200,"time":"2022-01-10 23:58:07"}

@@ -1,0 +1,7 @@
+{"level":"\u001b[34mINFO\u001b[0m","ts":"2022-01-09 23:43:10","caller":"middleware/zaplog.go:43","msg":"========测试zap"}
+{"level":"\u001b[34mINFO\u001b[0m","ts":"2022-01-09 23:43:10","caller":"middleware/zaplog.go:63","msg":"错误信息：用户名已存在"}
+{"level":"INFO","ts":"2022-01-09 23:45:39","caller":"middleware/zaplog.go:43","msg":"========测试zap"}
+{"level":"INFO","ts":"2022-01-09 23:45:39","caller":"middleware/zaplog.go:63","msg":"错误信息：用户名已存在"}
+{"level":"INFO","time":"2022-01-09 23:47:21","caller":"middleware/zaplog.go:64","msg":"错误信息：用户名已存在"}
+{"level":"INFO","time":"2022-01-09 23:47:52","msg":"错误信息：用户名已存在"}
+{"level":"INFO","time":"2022-01-09 23:51:58","msg":"错误信息：用户名已存在"}
